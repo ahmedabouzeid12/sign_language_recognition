@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997746190324",
+    "project_id": "sign-language-recognitio-b7edf",
+    "storage_bucket": "sign-language-recognitio-b7edf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997746190324:android:1e59f05bdda0108e2f3ba1",
+        "android_client_info": {
+          "package_name": "com.example.sign_language_recognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997746190324-hj2icrs6kkb3ak6l3gf2jmis8id9ftbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0hG7dDcUFCZXgql-2R1k4_FsrfZIIA3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997746190324-hj2icrs6kkb3ak6l3gf2jmis8id9ftbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
